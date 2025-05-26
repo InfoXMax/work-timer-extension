@@ -60,7 +60,7 @@ This was built to help people who start work at a flexible time (e.g., 08:00, 09
 
 ## 📸 Screenshot
 
-![screenshot](preview.png) <!-- Optional: You can upload a screenshot and rename it -->
+![screenshot](screenshot.png) <!-- Optional: You can upload a screenshot and rename it -->
 
 ---
 
